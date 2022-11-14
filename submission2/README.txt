@@ -1,0 +1,20 @@
+Link to unlisted youtube video:
+https://youtu.be/Yu5_0wgrsI4
+
+Public link to the slide (Anyone on the internet can view without login):
+https://docs.google.com/presentation/d/1fTJ1NG1gsTpuWAzJpT5wQ95Wi87imbDnrF6pMtMK6zo/edit?usp=sharing
+
+Paper title:
+Federated learning for COVID-19 screening from chest X-ray
+
+Link to the paper:
+
+https://www.sciencedirect.com/science/article/pii/S1568494621002532
+
+Group Number:
+09
+
+Group Members:
+ID: 19101173	Name: Krity Haque Charu
+ID: 19101178	Name: Syeda Maisha Tarannum
+ID: 19301007	Name: Kh.Fardin Zubair Nafis
