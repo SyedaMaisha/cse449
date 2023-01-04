@@ -1,0 +1,12 @@
+Completed Datacamp course using email
+syeda.maisha.tarannum@g.bracu.ac.bd
+Unsupervised Learning in Python
+
+completed youtube video:
+https://youtube.com/playlist?list=PLrw6a1wE39_tb2fErI4-WkMbsvGQk9_UB
+
+completed book:
+https://disco.ethz.ch/courses/podc_allstars/lecture/podc.pdf
+
+Submitter:
+19101178 Syeda Maisha Tarannum
