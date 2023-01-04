@@ -2,7 +2,7 @@ Unlisted youtube video:
 https://youtu.be/yWh1cKG7w8M
 
 Conference submitted paper / paper submission / login Link:
-https://easy....
+https://easychair.org/conferences/?conf=3cmt
 
 Paper title:
 Comparative Analysis of Federated Learning and Centralized Approach for detecting different lung diseases
