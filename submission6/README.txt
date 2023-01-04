@@ -1,6 +1,6 @@
 Completed Datacamp course using email
 syeda.maisha.tarannum@g.bracu.ac.bd
-Unsupervised Learning in Python
+https://app.datacamp.com/learn/courses/unsupervised-learning-in-python 
 
 completed youtube video:
 https://youtube.com/playlist?list=PLrw6a1wE39_tb2fErI4-WkMbsvGQk9_UB
