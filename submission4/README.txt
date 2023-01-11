@@ -16,7 +16,7 @@ Paper submission date (to workshop/conference):
 
 
 Paper submission ID: (received) from conference/workshop
-23
+AS11023 (23) 
 
 Conference Name:  
 2023 9th International Conference on Computer Technology Applications (ICCTA 2023)
